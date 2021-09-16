@@ -1,17 +1,16 @@
 ### Hi, I'm Kiran Ajikumar👋
 
-<img align="right" width="500" alt="Screenshot 2021-09-16 203929" src="https://user-images.githubusercontent.com/73101486/133656376-57dbd46d-64df-4cdd-968a-b3367c0bc3fb.png">
+<img align="right" width="560" alt="Screenshot 2021-09-16 203929" src="https://user-images.githubusercontent.com/73101486/133656376-57dbd46d-64df-4cdd-968a-b3367c0bc3fb.png">
 
-- 🔭 I’m currently working on my Startup
+- 🔭 I’m currently working on a lot of stuffs
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Instagram
+- 👯 I’m looking to collaborate on content creation
 - 🤔 I’m looking for help with Flutter
-- 💬 Ask me about Web devlopment
+- 💬 Ask me anything about TECH
 - 📫 How to reach me: codekirks@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: May be! Next Elon Musk
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: May be! Next Elon Musk 🤣
 
-<img align="right" width="702" alt="Screenshot 2021-09-16 203929" src="https://user-images.githubusercontent.com/73101486/133656376-57dbd46d-64df-4cdd-968a-b3367c0bc3fb.png">
 
 ### Connect with me:
 
@@ -49,7 +48,6 @@ Views:
 <img align="center" src="https://profile-counter.glitch.me/{kiranajik}/count.svg"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samflab&count_private=true&show_icons=true&theme=radical"/>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranajik&layout=compact&theme=radical&count_private=true"/> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranajik&theme=radical"/>
 <br/>
 
