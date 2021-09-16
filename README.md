@@ -44,8 +44,8 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
-[![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranajik)](https://github.com/anuraghazra/github-readme-stats)
+  <summary>:zap: GitHub Stats</summary>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranajik&show_icons=true&theme=radical)
+
 
 </details>
 
