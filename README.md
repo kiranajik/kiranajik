@@ -40,11 +40,11 @@
 <br/>
 
 Views:
-<img align="center" src="https://profile-counter.glitch.me/{samflab}/count.svg"/>
+<img align="center" src="https://profile-counter.glitch.me/{kiranajik}/count.svg"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samflab&count_private=true&show_icons=true&theme=radical"/>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samflab&layout=compact&theme=radical&count_private=true"/> -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samflab&theme=radical"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranajik&layout=compact&theme=radical&count_private=true"/> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranajik&theme=radical"/>
 <br/>
 
 ---
