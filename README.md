@@ -9,6 +9,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: May be! Next Elon Musk
 
+<img width="702" alt="Screenshot 2021-09-16 203929" src="https://user-images.githubusercontent.com/73101486/133656376-57dbd46d-64df-4cdd-968a-b3367c0bc3fb.png">
 
 ### Connect with me:
 
