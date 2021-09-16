@@ -1,6 +1,6 @@
 ### Hi, I'm Kiran Ajikumar👋
 
-<img align="right" width="560" alt="Screenshot 2021-09-16 203929" src="https://user-images.githubusercontent.com/73101486/133656376-57dbd46d-64df-4cdd-968a-b3367c0bc3fb.png">
+<img align="right" width="480" alt="Screenshot 2021-09-16 203929" src="https://user-images.githubusercontent.com/73101486/133656376-57dbd46d-64df-4cdd-968a-b3367c0bc3fb.png">
 
 - 🔭 I’m currently working on a lot of stuffs
 - 🌱 I’m currently learning Flutter
