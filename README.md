@@ -1,5 +1,7 @@
 ### Hi, I'm Kiran Ajikumar👋
 
+<img align="right" width="500" alt="Screenshot 2021-09-16 203929" src="https://user-images.githubusercontent.com/73101486/133656376-57dbd46d-64df-4cdd-968a-b3367c0bc3fb.png">
+
 - 🔭 I’m currently working on my Startup
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Instagram
