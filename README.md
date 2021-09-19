@@ -50,7 +50,7 @@ Views:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranajik&count_private=true&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranajik&theme=radical"/>
 <br/>
-
+<a href="https://www.buymeacoffee.com/kiran.codes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kiran.codes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 ---
 
 
