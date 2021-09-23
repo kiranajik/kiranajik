@@ -54,11 +54,14 @@ Views:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranajik&count_private=true&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranajik&theme=radical"/>
 <br/>
+<img alt="gif" align="right" width="350px" src="https://user-images.githubusercontent.com/73101486/134557305-08c414e9-5659-4305-aff1-5b225c72ef7e.gif"/>
+<br>
+
 <a href="https://www.buymeacoffee.com/kiran.codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
-<img alt="gif" width="350px" src="https://user-images.githubusercontent.com/73101486/134557305-08c414e9-5659-4305-aff1-5b225c72ef7e.gif"/>
+
 
 [website]: https://kiran.codes
 [instagram]: https://instagram.com/kiran_ajik
