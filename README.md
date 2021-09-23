@@ -50,9 +50,10 @@
 
 Views:
 <img align="center" src="https://profile-counter.glitch.me/{kiranajik}/count.svg"/>
-<img alt="gif" align="right" width="350px" src="https://user-images.githubusercontent.com/73101486/134557305-08c414e9-5659-4305-aff1-5b225c72ef7e.gif"/>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranajik&count_private=true&show_icons=true&theme=radical"/>
+<img alt="gif" align="right" width="350px" src="https://user-images.githubusercontent.com/73101486/134557305-08c414e9-5659-4305-aff1-5b225c72ef7e.gif"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranajik&theme=radical"/>
 <br/>
 
