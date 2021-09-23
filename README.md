@@ -46,6 +46,7 @@
 <br />
 <br/>
 
+<img align="left" alt="C++" width="30px" src="https://i.pinimg.com/originals/68/a5/80/68a5805ee62de226ae2fa7dd16b52353.gif"/>
 Views:
 <img align="center" src="https://profile-counter.glitch.me/{kiranajik}/count.svg"/>
 
